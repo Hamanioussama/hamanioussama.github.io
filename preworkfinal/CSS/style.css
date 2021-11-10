@@ -1,0 +1,77 @@
+<style type= "text/css">
+
+.clearfix {
+	overflow: auto;
+	margin: 100px;
+}
+#video {
+	margin: 200px;
+	padding: 0px;
+	text-align: center;
+}
+.normaltext {
+	max-width: 1600px;
+	position: relative;
+}
+img {
+	float: right;
+	width: 50%;
+}
+#main {
+	width: 1000px;
+	margin: 0px;
+	position: relative;
+}
+	body{
+			background-color: skyblue;
+			margin: 5;
+			padding: 10;
+		}
+	h1{
+		text-align: center;
+	}
+	h2{
+		color: orange;
+		text-decoration: underline;
+		text-align: center;
+	}
+	h3{
+		color: blueviolet;
+	}
+	p{
+		font-size: medium;
+		font-style: oblique;
+	}
+	li{
+		font-style: italic;
+	}
+	a{
+		color: purple;
+	}
+form{
+	padding: 15px;
+	background-color: white;
+	font-style: italic;
+	border-style: solid;
+	font-weight: 900px;
+}
+input[type=button] {
+	color: black;
+	background-color:yellow;
+	padding: 5px;
+}
+
+input[type=button]:hover{
+	border: solid;
+	background-color: green;
+}
+
+input[type=text]:focus {
+	background-color: whitesmoke;
+	color: red;
+	width: 100%;
+	transition: 2s:
+}
+
+</style>
+
